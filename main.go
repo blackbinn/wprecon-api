@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/blackcrw/wprecon-api/pkg/config"
-	"github.com/blackcrw/wprecon-api/pkg/routers"
+	"github.com/blackcrw/wprecon-api/src/config"
+	"github.com/blackcrw/wprecon-api/src/routers"
 )
 
 func main() {
